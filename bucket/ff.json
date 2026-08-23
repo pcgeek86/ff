@@ -5,6 +5,7 @@
   "homepage": "https://github.com/pcgeek86/ff",
   "license": "MIT",
   "source": "https://github.com/pcgeek86/ff",
-  "build": "cargo build --release",
-  "install": "bin = \"target/release/ff.exe\""
+  "files": {
+    "x64": "https://github.com/pcgeek86/ff/releases/download/v0.1.0/ff-v0.1.0-x64.zip"
+  }
 }
