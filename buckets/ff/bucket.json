@@ -1,0 +1,10 @@
+{
+  "name": "ff",
+  "version": "0.1.0",
+  "description": "A terminal-based file finder.",
+  "homepage": "https://github.com/pcgeek86/ff",
+  "license": "MIT",
+  "source": "https://github.com/pcgeek86/ff",
+  "build": "cargo build --release",
+  "install": "bin = \"target/release/ff.exe\""
+}
