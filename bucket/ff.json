@@ -10,9 +10,6 @@
       "url": "https://github.com/pcgeek86/ff/releases/download/v0.1.0/ff.exe",
       "hash": "sha512:37A30F26B2D73EE07CF6E71101F60BFCBBC14D6911C8B5761FA115CF7D606FD907054984D50BE081C60185B734B3F98B550B3A0DD7B59384F3DEB3EEB77A794F"
     }
-  },
+  }
 
-  "shortcuts": [
-    ["ff.exe", "ff"]
-  ]
 }
