@@ -27,4 +27,8 @@
 ## Agent Instructions
 - Keep yourself up to date anytime that new features are added or modified in this application.
 - AGENTS.md is the source of truth for functional requirements.
+- For information on creating and updating scoop manifests, refer to the documentation here: https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests
+- All release files must have the version number in the file name.
 - The README must always be up to date with comprehensive examples showing how to use the application.
+- Scoop manifests must be valid JSON — do not publish invalid JSON manifests. Validate the manifest with `scoop validate` or a JSON linter before publishing.
+- When generating hash values for Scoop manifests, use `Get-FileHash -Algorithm SHA512 | ConvertTo-Json` to obtain the full-length hash string in `sha512:<hash>` format.
