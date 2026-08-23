@@ -4,11 +4,21 @@
 
 ## Installation
 
+### Install via Cargo
 To install `ff` from source, navigate to the project root and run:
 
 ```bash
 cargo install --path .
 ```
+
+### Install via Scoop (Windows)
+For a quick installation on Windows, you can use the Scoop package manager:
+
+```powershell
+scoop bucket add ff https://github.com/pcgeek86/ff
+scoop install ff
+```
+
 
 ## Usage
 
