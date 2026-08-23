@@ -15,5 +15,7 @@
     }
   },
 
-  "shortcuts": "ff.exe"
+  "shortcuts": [
+    "ff.exe"
+  ]
 }
