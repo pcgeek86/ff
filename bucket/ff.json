@@ -13,8 +13,6 @@
           "hash": "06A1ED57C051162BDB13536CB5E4959C048E1E0821D6DA9B7DD7BDFC51D33E21"
         }
       }
-    "shortcuts": [
-      [ "ff.exe", "ff" ]
-    ]
+    "shortcuts": "ff.exe"
 
 }
