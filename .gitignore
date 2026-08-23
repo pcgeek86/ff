@@ -1,0 +1,26 @@
+# Rust
+Cargo.lock
+target/
+tests/typecheck/
+
+#env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+.DS_Store
